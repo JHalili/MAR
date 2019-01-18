@@ -89,15 +89,6 @@ public class Astronaut : Augmentation
         IsWaving = true;
     }
 
-    public void HandleVirtualButtonPressed()
-    {
-        AnimEvt_StartWaving();
-    }
-
-    public void HandleVirtualButtonReleased()
-    {
-
-    }
     #endregion // PUBLIC_METHODS
 
 

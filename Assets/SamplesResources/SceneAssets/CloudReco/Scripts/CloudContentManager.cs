@@ -61,12 +61,12 @@ public class CloudContentManager : MonoBehaviour
     {
         Debug.Log("<color=blue>HandleTargetFinderResult(): " + targetSearchResult.TargetName + "</color>");
 
-        cloudTargetInfo.text =
-            "Name: " + targetSearchResult.TargetName +
-            "\nSize: " + targetSearchResult.TargetSize +
-            "\nRating: " + starRatings[targetSearchResult.TrackingRating] +
-            "\nMetaData: " + ((targetSearchResult.MetaData.Length > 0) ? targetSearchResult.MetaData : "No") +
-            "\nTarget Id: " + targetSearchResult.UniqueTargetId;
+        //cloudTargetInfo.text =
+        //    "Name: " + targetSearchResult.TargetName +
+        //    "\nSize: " + targetSearchResult.TargetSize +
+        //    "\nRating: " + starRatings[targetSearchResult.TrackingRating] +
+        //    "\nMetaData: " + ((targetSearchResult.MetaData.Length > 0) ? targetSearchResult.MetaData : "No") +
+        //    "\nTarget Id: " + targetSearchResult.UniqueTargetId;
 
         GameObject augmentation = GetValuefromDictionary(Augmentations, targetSearchResult.TargetName);
 

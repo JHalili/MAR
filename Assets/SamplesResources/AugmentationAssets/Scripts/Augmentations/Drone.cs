@@ -36,16 +36,6 @@ public class Drone : Augmentation
         IsScanning = true;
         IsFacingObject = true;
     }
-
-    public void HandleVirtualButtonPressed()
-    {
-        AnimEvt_StartScanning();
-    }
-
-    public void HandleVirtualButtonReleased()
-    {
-        AnimEvt_StopScanning();
-    }
     #endregion // PUBLIC_METHODS
 
 
