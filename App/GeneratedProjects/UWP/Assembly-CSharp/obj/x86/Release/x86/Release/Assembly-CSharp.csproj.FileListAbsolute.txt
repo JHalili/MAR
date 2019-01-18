@@ -3,6 +3,7 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CS
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Assembly-CSharp.pri
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.Analytics.DataPrivacy.dll
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.TextMeshPro.dll
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.XR.WindowsMR.dll
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\VuforiaScripts.dll
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\VuforiaScripts.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\VuforiaScripts.pri
@@ -10,6 +11,8 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CS
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.TextMeshPro.pri
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.Analytics.DataPrivacy.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.Analytics.DataPrivacy.pri
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.XR.WindowsMR.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\bin\x86\Release\Unity.XR.WindowsMR.pri
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csprojAssemblyReference.cache
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\obj\x86\Release\x86\Release\Assembly-CSharp.csproj.CopyComplete

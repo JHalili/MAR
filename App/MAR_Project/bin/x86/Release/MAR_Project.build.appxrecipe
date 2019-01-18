@@ -527,6 +527,9 @@
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\VuforiaDL.dll">
       <PackagePath>VuforiaDL.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\AudioPluginMsHRTF.dll">
+      <PackagePath>AudioPluginMsHRTF.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\VuforiaWrapper.dll">
       <PackagePath>VuforiaWrapper.dll</PackagePath>
     </AppxPackagedFile>
@@ -559,6 +562,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\Data\sharedassets0.assets">
       <PackagePath>Data\sharedassets0.assets</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\Data\globalgamemanagers.assets.resS">
+      <PackagePath>Data\globalgamemanagers.assets.resS</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\Data\level0.resS">
       <PackagePath>Data\level0.resS</PackagePath>
@@ -594,6 +600,9 @@
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.SpriteShapeModule.dll">
+      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.StreamingModule.dll">
       <PackagePath>UnityEngine.StreamingModule.dll</PackagePath>
     </AppxPackagedFile>
@@ -624,11 +633,11 @@
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.UIModule.dll">
       <PackagePath>UnityEngine.UIModule.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.SpriteMaskModule.dll">
+      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.UNETModule.dll">
       <PackagePath>UnityEngine.UNETModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.UnityAnalyticsModule.dll">
-      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.UnityConnectModule.dll">
       <PackagePath>UnityEngine.UnityConnectModule.dll</PackagePath>
@@ -666,14 +675,11 @@
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.XRModule.dll">
       <PackagePath>UnityEngine.XRModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.SpriteShapeModule.dll">
-      <PackagePath>UnityEngine.SpriteShapeModule.dll</PackagePath>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.UnityAnalyticsModule.dll">
+      <PackagePath>UnityEngine.UnityAnalyticsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.SpriteMaskModule.dll">
-      <PackagePath>UnityEngine.SpriteMaskModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.SharedInternalsModule.dll">
-      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.ScreenCaptureModule.dll">
+      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.AccessibilityModule.dll">
       <PackagePath>UnityEngine.AccessibilityModule.dll</PackagePath>
@@ -699,11 +705,14 @@
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.CoreModule.dll">
       <PackagePath>UnityEngine.CoreModule.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.SharedInternalsModule.dll">
+      <PackagePath>UnityEngine.SharedInternalsModule.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.CrashReportingModule.dll">
       <PackagePath>UnityEngine.CrashReportingModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.DirectorModule.dll">
-      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.dll">
+      <PackagePath>UnityEngine.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.GameCenterModule.dll">
       <PackagePath>UnityEngine.GameCenterModule.dll</PackagePath>
@@ -738,11 +747,8 @@
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.PhysicsModule.dll">
       <PackagePath>UnityEngine.PhysicsModule.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.ScreenCaptureModule.dll">
-      <PackagePath>UnityEngine.ScreenCaptureModule.dll</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.dll">
-      <PackagePath>UnityEngine.dll</PackagePath>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.DirectorModule.dll">
+      <PackagePath>UnityEngine.DirectorModule.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\UnityEngine.Timeline.dll">
       <PackagePath>UnityEngine.Timeline.dll</PackagePath>
@@ -776,6 +782,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\Unity.Analytics.DataPrivacy.dll">
       <PackagePath>Unity.Analytics.DataPrivacy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\Unity.XR.WindowsMR.dll">
+      <PackagePath>Unity.XR.WindowsMR.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Core\MAR_Project.exe">
       <PackagePath>MAR_Project.exe</PackagePath>

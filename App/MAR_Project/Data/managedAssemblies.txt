@@ -1,4 +1,5 @@
 Assembly-CSharp.dll
+UnityEngine.SpriteShapeModule.dll
 UnityEngine.StreamingModule.dll
 UnityEngine.StyleSheetsModule.dll
 UnityEngine.SubstanceModule.dll
@@ -9,8 +10,8 @@ UnityEngine.TextRenderingModule.dll
 UnityEngine.TilemapModule.dll
 UnityEngine.UIElementsModule.dll
 UnityEngine.UIModule.dll
+UnityEngine.SpriteMaskModule.dll
 UnityEngine.UNETModule.dll
-UnityEngine.UnityAnalyticsModule.dll
 UnityEngine.UnityConnectModule.dll
 UnityEngine.UnityWebRequestAssetBundleModule.dll
 UnityEngine.UnityWebRequestAudioModule.dll
@@ -23,11 +24,12 @@ UnityEngine.VideoModule.dll
 UnityEngine.VRModule.dll
 UnityEngine.WindModule.dll
 UnityEngine.XRModule.dll
-UnityEngine.SpriteShapeModule.dll
-UnityEngine.SpriteMaskModule.dll
-UnityEngine.SharedInternalsModule.dll
+UnityEngine.UnityAnalyticsModule.dll
+VuforiaScripts.dll
+UnityEngine.ScreenCaptureModule.dll
 Unity.Analytics.DataPrivacy.dll
 Unity.TextMeshPro.dll
+Unity.XR.WindowsMR.dll
 UnityEngine.AccessibilityModule.dll
 UnityEngine.AIModule.dll
 UnityEngine.AnimationModule.dll
@@ -36,9 +38,8 @@ UnityEngine.AssetBundleModule.dll
 UnityEngine.AudioModule.dll
 UnityEngine.ClothModule.dll
 UnityEngine.CoreModule.dll
+UnityEngine.SharedInternalsModule.dll
 UnityEngine.CrashReportingModule.dll
-VuforiaScripts.dll
-UnityEngine.DirectorModule.dll
 UnityEngine.GameCenterModule.dll
 UnityEngine.GridModule.dll
 UnityEngine.ImageConversionModule.dll
@@ -50,7 +51,7 @@ UnityEngine.ParticleSystemModule.dll
 UnityEngine.PerformanceReportingModule.dll
 UnityEngine.Physics2DModule.dll
 UnityEngine.PhysicsModule.dll
-UnityEngine.ScreenCaptureModule.dll
+UnityEngine.DirectorModule.dll
 UnityEngine.Timeline.dll
 UnityEngine.UI.dll
 UnityEngine.SpatialTracking.dll

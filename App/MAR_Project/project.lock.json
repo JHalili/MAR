@@ -1928,6 +1928,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -1942,6 +1943,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -3746,6 +3757,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -3760,6 +3772,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -5527,6 +5549,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -5541,6 +5564,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -7352,6 +7385,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -7366,6 +7400,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -9133,6 +9177,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -9147,6 +9192,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -10958,6 +11013,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -10972,6 +11028,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -12739,6 +12805,7 @@
           "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
           "Unity.Analytics.DataPrivacy": "1.0.0",
           "Unity.TextMeshPro": "1.0.0",
+          "Unity.XR.WindowsMR": "1.0.0",
           "VuforiaScripts": "1.0.0"
         }
       },
@@ -12753,6 +12820,16 @@
         }
       },
       "Unity.TextMeshPro/1.0.0": {
+        "type": "project",
+        "framework": "UAP,Version=v10.0.10240",
+        "dependencies": {
+          "Microsoft.ApplicationInsights": "1.0.0",
+          "Microsoft.ApplicationInsights.PersistenceChannel": "1.0.0",
+          "Microsoft.ApplicationInsights.WindowsApps": "1.0.0",
+          "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0"
+        }
+      },
+      "Unity.XR.WindowsMR/1.0.0": {
         "type": "project",
         "framework": "UAP,Version=v10.0.10240",
         "dependencies": {
@@ -16082,6 +16159,11 @@
       "path": "../GeneratedProjects/UWP/Unity.TextMeshPro/project.json",
       "msbuildProject": "../GeneratedProjects/UWP/Unity.TextMeshPro/Unity.TextMeshPro.csproj"
     },
+    "Unity.XR.WindowsMR/1.0.0": {
+      "type": "project",
+      "path": "../GeneratedProjects/UWP/Unity.XR.WindowsMR/project.json",
+      "msbuildProject": "../GeneratedProjects/UWP/Unity.XR.WindowsMR/Unity.XR.WindowsMR.csproj"
+    },
     "VuforiaScripts/1.0.0": {
       "type": "project",
       "path": "../GeneratedProjects/UWP/VuforiaScripts/project.json",
@@ -16128,6 +16210,9 @@
             },
             "E:\\MEGA\\MEGAsync\\MAR\\Exercises\\MAR_Project\\App\\GeneratedProjects\\UWP\\Unity.TextMeshPro\\Unity.TextMeshPro.csproj": {
               "projectPath": "E:\\MEGA\\MEGAsync\\MAR\\Exercises\\MAR_Project\\App\\GeneratedProjects\\UWP\\Unity.TextMeshPro\\Unity.TextMeshPro.csproj"
+            },
+            "E:\\MEGA\\MEGAsync\\MAR\\Exercises\\MAR_Project\\App\\GeneratedProjects\\UWP\\Unity.XR.WindowsMR\\Unity.XR.WindowsMR.csproj": {
+              "projectPath": "E:\\MEGA\\MEGAsync\\MAR\\Exercises\\MAR_Project\\App\\GeneratedProjects\\UWP\\Unity.XR.WindowsMR\\Unity.XR.WindowsMR.csproj"
             },
             "E:\\MEGA\\MEGAsync\\MAR\\Exercises\\MAR_Project\\App\\GeneratedProjects\\UWP\\VuforiaScripts\\VuforiaScripts.csproj": {
               "projectPath": "E:\\MEGA\\MEGAsync\\MAR\\Exercises\\MAR_Project\\App\\GeneratedProjects\\UWP\\VuforiaScripts\\VuforiaScripts.csproj"

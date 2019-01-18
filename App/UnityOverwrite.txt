@@ -5,15 +5,16 @@
 # Write a line equal to 'overwrite-all' (without quotes) to overwrite everything (preserved accross builds)
 # Write a line equal to 'keep-all' (without quotes) to keep files regardless their modification (preserved accross builds)
 # Default behavior is to never overwrite files
-MAR_Project.sln: 18E0D0404CC97BF7F8D915A3D8EC1179
+MAR_Project.sln: 9D2E87B26F6E338E81DAF06EC4F35097
 GeneratedProjects\UWP\Assembly-CSharp\project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\Unity.TextMeshPro\project.json: 1D02BC64BAC0D041019673A1C4C51737
+GeneratedProjects\UWP\Unity.XR.WindowsMR\project.json: 1D02BC64BAC0D041019673A1C4C51737
 GeneratedProjects\UWP\VuforiaScripts\project.json: 1D02BC64BAC0D041019673A1C4C51737
 MAR_Project\App.cs: 32CA6B0F23B6CBA71F4516B7D85281F1
-MAR_Project\AssemblyConverterArgs.txt: DB77A898D6BC392ABB83ABEB6A61F442
-MAR_Project\MAR_Project.csproj: 3D23A5C69C5FD207BD1F4F1E22BC406A
-MAR_Project\MAR_Project.csproj.user: modified
+MAR_Project\AssemblyConverterArgs.txt: 6E885A193060F5887DB211215942B517
+MAR_Project\MAR_Project.csproj: 5A1771A1DFB94E47D2DA9F00ABBCE3FC
+MAR_Project\MAR_Project.csproj.user: BEFB8AC4886C4CFDD3C68445D6F19B04
 MAR_Project\Package.appxmanifest: 331EF1ADDAB11EDB72A55F69DBB702CC
 MAR_Project\project.json: 1D02BC64BAC0D041019673A1C4C51737
 MAR_Project\Assets\SplashScreen.scale-100.png: B1345D9C35ACED2F425C636E68FC04C9

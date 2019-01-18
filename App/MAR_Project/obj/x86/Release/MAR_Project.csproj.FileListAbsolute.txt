@@ -173,6 +173,7 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Unity
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Vuforia.UnityExtensions.dll
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\WinRTBridge.dll
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\WinRTLegacy.dll
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SpriteShapeModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.StreamingModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.StyleSheetsModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SubstanceModule.pdb
@@ -183,8 +184,8 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Unity
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.TilemapModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UIElementsModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UIModule.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SpriteMaskModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UNETModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UnityAnalyticsModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UnityConnectModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UnityWebRequestAssetBundleModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UnityWebRequestAudioModule.pdb
@@ -197,9 +198,8 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Unity
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.VRModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.WindModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.XRModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SpriteShapeModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SpriteMaskModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SharedInternalsModule.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UnityAnalyticsModule.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.ScreenCaptureModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.AccessibilityModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.AIModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.AnimationModule.pdb
@@ -208,8 +208,9 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Unity
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.AudioModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.ClothModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.CoreModule.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.SharedInternalsModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.CrashReportingModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.DirectorModule.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.GameCenterModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.GridModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.ImageConversionModule.pdb
@@ -221,8 +222,7 @@ E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\Unity
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.PerformanceReportingModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.Physics2DModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.PhysicsModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.ScreenCaptureModule.pdb
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.pdb
+E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.DirectorModule.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\WinRTLegacy.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.Timeline.pdb
 E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\bin\x86\Release\UnityEngine.UI.pdb

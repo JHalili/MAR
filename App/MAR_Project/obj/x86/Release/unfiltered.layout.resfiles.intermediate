@@ -34,9 +34,12 @@ Assets\Wide310x150Logo.scale-125.png
 Assets\Wide310x150Logo.scale-150.png
 Assets\Wide310x150Logo.scale-200.png
 Assets\Wide310x150Logo.scale-400.png
+AudioPluginMsHRTF.dll
+AudioPluginMsHRTF.pdb
 Data\boot.config
 Data\globalgamemanagers
 Data\globalgamemanagers.assets
+Data\globalgamemanagers.assets.resS
 Data\level0
 Data\level0.resS
 Data\managedAssemblies.txt
