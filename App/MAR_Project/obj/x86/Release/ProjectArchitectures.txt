@@ -1,8 +1,0 @@
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Unity.Analytics.DataPrivacy\Unity.Analytics.DataPrivacy.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\Unity.TextMeshPro\Unity.TextMeshPro.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\VuforiaScripts\VuforiaScripts.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\GeneratedProjects\UWP\VuforiaScripts\VuforiaScripts.csproj;x86
-E:\MEGA\MEGAsync\MAR\Exercises\MAR_Project\App\MAR_Project\MAR_Project.csproj;x86
